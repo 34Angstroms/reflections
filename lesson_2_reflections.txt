@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+	My thoughts:
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	I think the staging area functions as an intermediate space between the working directory and the repository. It allows you to bundle various files/changes to those files into a single space and commit all of them together if so merited when committing to the repository.
+

@@ -8,4 +8,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 	You can use "git diff" and "git diff --staged" to view any changes you
 	have made between two files in the working directory, staged area and in the repository. And then just commit files/changes individually based on one logical change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+	Hint: this is how you view a diagram of the branch structure.
+	"git log --graph --oneline branch_name1 branch_name2 bran_name_etc"
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
